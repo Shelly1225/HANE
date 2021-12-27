@@ -10,7 +10,7 @@ This repository provides a reference implementation of *HANE* as described in th
 * theano (only for using NetMF as base embedding method)
 
 
-#####**dataset**
+##### **dataset**
 baiduyunpan：https://pan.baidu.com/s/1dD6TpleAUVq7AKk-lev1pw   (fnpe)
 
 #### **How To Run**
@@ -24,6 +24,6 @@ Use `python main.py` to run the code with all the default settings. Here are som
 * `--refine-type`: refinement method, including `MD-gcn` , `MD-dumb` (without model training), and `MD-gs` (using GraphSAGE).
 
 
-##If you find *HANE* useful in your research, please cite our paper:
+## **If you find *HANE* useful in your research, please cite our paper:**
 @ S. Zhao, Z. Du, J. Chen, Y. Zhang, J. Tang and P. Yu, "Hierarchical Representation Learning for Attributed Networks," in IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2021.3117274.
  
