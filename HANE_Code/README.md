@@ -8,6 +8,8 @@ This repository provides a reference implementation of *HANE* as described in th
 * networkx
 * gensim (only for using DeepWalk as base embedding method)
 * theano (only for using NetMF as base embedding method)
+#####**dataset**
+baiduyunpan：https://pan.baidu.com/s/1dD6TpleAUVq7AKk-lev1pw   (fnpe)
 
 #### **How To Run**
 Use `python main.py` to run the code with all the default settings. Here are some useful arguments that can be passed to the program:
