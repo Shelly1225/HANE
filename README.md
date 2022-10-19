@@ -1,4 +1,4 @@
-Hierarchical Representation Learning for Attributed Networks
+**Hierarchical Representation Learning for Attributed Networks**
 ###
 This repository provides a reference implementation of *HANE* as described in the [paper](DOI: 10.1109/TKDE.2021.3117274). 
 #### **Required Packages**
